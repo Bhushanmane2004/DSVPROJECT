@@ -43,6 +43,14 @@ body{
 
 .graph-main{
     border-radius: 3%;
+    border: 3px solid black;
+   
+    width: 650px;
+    height: 400px;
+}
+
+.container{
+    margin-top: 50px;
 }
 
 /* .Main-text{
